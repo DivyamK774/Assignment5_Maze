@@ -5,3 +5,4 @@ For this assignment, I used Pixilart because I already had experience of using t
 
 For my maze game, I downloaded every sprite and image I drew. Then, I imported my assets by clicking "Assets" in the top left corner and then selected "import new asset". Once I added all of my assets to unity, I draged them in one by one, starting with my background, then the obstacles and finally the character. I added 2d polygon coliders to the crystals and the miner, and made their layer "Foreground". I changed the background to be a background layer.
 
+A problem I faced was making the design for the character and images. I had the main cave theme in mind, but I had a hard time modeling the miner sprite and drawing the crystal. So for some guidance, I looked at some images online for some inspiration and it helped me a lot in the designing process. Another problem I had was 
